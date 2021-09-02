@@ -12,6 +12,8 @@ int main()
   int j = 8;
   gcd2(i, j);
 
+
+  //This is writing branch
   cout << "GCD:" << i << " [" << j << "]" << endl;
 }
 
