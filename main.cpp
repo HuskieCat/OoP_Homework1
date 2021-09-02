@@ -12,7 +12,6 @@ int main()
   int j = 8;
   gcd2(i, j);
 
-  //Testing
   cout << "GCD:" << i << " [" << j << "]" << endl;
 }
 
